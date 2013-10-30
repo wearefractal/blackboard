@@ -18,10 +18,25 @@
 </tr>
 </table>
 
+## Why
+
+There are other workshop utilities but this one is better.
+
+- Lesson guidelines are markdown
+  - Syntax highlighting supported
+  - Pretty lists and dividers
+  - Tables, links, whatever
+- Highly configurable
+- Cross-platform everything
+- Uses vm contexts instead of running in a seperate process
+- Highly modular
+- Not file-centric like others
+- Simplified codebase
+
 ## Usage
 
 ```javascript
-EXAMPLEHERE
+In progress
 ```
 
 ## Examples
